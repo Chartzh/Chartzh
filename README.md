@@ -12,11 +12,12 @@ I am an Information Systems student at UIN Jakarta with a strong passion for tra
 
 <img src="/message.gif" width="300px" align="right">
 
-- 🎓 **4th Semester** Information Systems student at UIN Jakarta.
-- 💡 **Data Science Mentor** at HITLAB (HIMSI Innovative Talent Laboratory).
-- 🏆 **Arcade Legend Tier** at Google Cloud (Completed JuaraGCP S12 in 72 hours!).
-- 🐧 Enthusiastic **Fedora Linux** user on ThinkPad X260.
-- 🛠️ Joining **Pijak Bootcamp** (Dicoding x IBM) starting February 2026.
+- 🎓 Information Systems student at UIN Jakarta
+- 💡 Data Science Mentor at HITLAB
+- 🏆 Google Cloud Arcade Legend
+- 🐧 Rocking **Fedora** on a ThinkPad X260
+- 🛠️ Incoming **Pijak Bootcamp** (Dicoding x IBM)
+- 🎮 Casual gamer & tech explorer
 
 <br><br><br><br>
 
