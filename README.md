@@ -1,6 +1,6 @@
 <img src="/computer.gif" width="100%"/>
 
-# 🖖 Hi there! I'm Rajif <img align="right" src="https://komarev.com/ghpvc/?username=chartzh&style=flat-square&color=blue">
+# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=chartzh&style=flat-square&color=blue">
 
 I'm an **Information Systems Student** & **Data Science Enthusiast**!
 
