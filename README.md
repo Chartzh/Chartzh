@@ -15,8 +15,7 @@ I am an Information Systems student at UIN Jakarta with a strong passion for tra
 - 🎓 Information Systems student at UIN Jakarta
 - 💡 Data Science Mentor at HITLAB
 - 🏆 Google Cloud Arcade Legend
-- 🐧 Rocking **Fedora** on a ThinkPad X260
-- 🛠️ Incoming **Pijak Bootcamp** (Dicoding x IBM)
+- 🐧 **Fedora** User
 - 🎮 Casual gamer & tech explorer
 
 <br><br><br><br>
