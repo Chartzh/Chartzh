@@ -13,7 +13,6 @@ I am an Information Systems student at UIN Jakarta with a strong passion for tra
 <img src="/message.gif" width="300px" align="right">
 
 - 🎓 Information Systems student at UIN Jakarta
-- 💡 Data Science Mentor at HITLAB
 - 🏆 Google Cloud Arcade Legend
 - 🐧 **Fedora** User
 - 🎮 Casual gamer & tech explorer
