@@ -44,7 +44,7 @@ I am an Information Systems student at UIN Jakarta with a strong passion for tra
 
 <p align="center">
   <b>Let's connect and collaborate:</b><br><br>
-  <a href="https://linkedin.com/in/rajifraditya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://rajif.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-🚀-%2300C4CC?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio">
   </a>
 </p>
